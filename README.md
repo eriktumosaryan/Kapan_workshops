@@ -1,6 +1,9 @@
 # Kapan_workshops
 
-📘 HTML & Bootstrap (UI part)
+Main Video 
+👉 https://www.youtube.com/watch?v=fcMcf_4PjfI&t=9791s
+
+📘 `HTML & Bootstrap (UI part)`
 
 MDN HTML Guide (basics of structure & elements):
 👉 https://developer.mozilla.org/en-US/docs/Learn/HTML
@@ -11,7 +14,8 @@ Bootstrap 5 Documentation (styling, buttons, grid, etc.):
 Form controls in Bootstrap (inputs, labels, buttons):
 👉 https://getbootstrap.com/docs/5.3/forms/overview/
 
-📘 JavaScript basics on MDN (variables, functions, operators):
+📘 `JavaScript basics on MDN (variables, functions, operators):`
+
 👉 https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps
 
 DOM Manipulation (getElementById, textContent, style, events):
@@ -23,12 +27,12 @@ Events (onclick, addEventListener, event handling):
 Conditionals (if/else for defining color & operations):
 👉 https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/conditionals
 
-📘 Combining HTML + JS
+📘 `Combining HTML + JS`
 
 How JavaScript interacts with HTML (DOM scripting):
 👉 https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Manipulating_documents
 
-🎥 Video Tutorials (if you prefer learning visually)
+🎥 `Video Tutorials (if you prefer learning visually)`
 
 JavaScript DOM Crash Course (Traversy Media, YouTube):
 👉 https://www.youtube.com/watch?v=0ik6X4DJKCc
