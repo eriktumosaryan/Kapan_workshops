@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Bootstrap Task List</title>
+  <!-- Bootstrap CSS -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+  <script src="app.js" defer></script>
+</head>
+<body class="bg-light d-flex justify-content-center align-items-center vh-100">
+
+  <div class="card shadow-lg p-4" style="max-width: 500px; width: 100%;">
+    <h3 class="text-center mb-4">Task List</h3>
+
+    <!-- Add Task Section -->
+    <div class="input-group mb-3">
+      <input id = 'input_note_section' type="text" class="form-control" placeholder="Enter new task">
+      <button id = "add_task" class="btn btn-primary" type="button">Add</button>
+    </div>
+
+    <!-- Tasks List -->
+    <ul class="list-group" id='list'>
+
+      <!-- <li class="list-group-item d-flex justify-content-between align-items-center">
+        <span>Buy groceries</span>
+        <div class="btn-group btn-group-sm">
+          <button class="btn btn-success">Done</button>
+          <button class="btn btn-warning">Edit</button>
+          <button class="btn btn-danger">Delete</button>
+        </div>
+      </li>
+
+      <li class="list-group-item d-flex justify-content-between align-items-center">
+        <span>Finish homework</span>
+        <div class="btn-group btn-group-sm">
+          <button class="btn btn-success">Done</button>
+          <button class="btn btn-warning">Edit</button>
+          <button class="btn btn-danger">Delete</button>
+        </div>
+      </li>
+
+      <li class="list-group-item d-flex justify-content-between align-items-center">
+        <span>Call a friend</span>
+        <div class="btn-group btn-group-sm">
+          <button class="btn btn-success">Done</button>
+          <button class="btn btn-warning">Edit</button>
+          <button class="btn btn-danger">Delete</button>
+        </div>
+      </li> -->
+
+    </ul>
+  </div>
+
+</body>
+</html>
